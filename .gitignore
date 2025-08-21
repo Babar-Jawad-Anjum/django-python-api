@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Django stuff:
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# mypy
+.mypy_cache/
+
+# Pycharm
+.idea/
+
+# Node modules (if using npm for frontend)
+node_modules/
+
+# Secrets (if you have one - always better to keep secrets out of version control!)
+.env
